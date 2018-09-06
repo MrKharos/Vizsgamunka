@@ -1,0 +1,51 @@
+.v
+{
+	height: 100vh;
+	display: flex;
+	align-content: center;
+}
+
+body, html
+{
+	height: 100%;
+}
+
+.bg_gif_1
+{
+	height: 100%;
+	background-image: url("../img/bg_gif_1.gif");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg_gif_2
+{
+	height: 100%;
+	background-image: url("../img/bg_gif_2.gif");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg_gif_3
+{
+	height: 100%;
+	background-image: url("../img/bg_gif_3.gif");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg_gif_4
+{
+	height: 100%;
+	background-image: url("../img/bg_gif_4.gif");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
